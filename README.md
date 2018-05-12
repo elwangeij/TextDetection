@@ -4,21 +4,21 @@
 ##### PaperList & Notes
 ###### Writing notes...
 
-[ ] Arxiv2018
+- [] Arxiv2018
 
-[ ] IJCAI2018
+- [] IJCAI2018
 
-[ ] CVPR2018
+- [] CVPR2018
 
-[ ] AAAI2018
+- [] AAAI2018
 
-[ ] Arxiv2017
+- [] Arxiv2017
 
-[ ] CVPR2017
+- [] CVPR2017
 
-[ ] ICCV2017
+- [] ICCV2017
 
-[ ] AAAI2017
+- [] AAAI2017
 
 
 
@@ -28,21 +28,21 @@ An Anchor-Free Region Proposal Network for Faster R-CNN based Text Detection App
 
 TextBoxes++: A Single-Shot Oriented Scene Text Detector [[paper](https://arxiv.org/abs/1801.02765)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/Arxiv/TextBoxes%2B%2B%20A%20Single-Shot%20Oriented%20Scene%20Text%20Detector.md)] [[PublicCode](https://github.com/MhLiao/TextBoxes_plusplus)]
 
-FOTS: Fast OrientedText Spotting with a Unified Network [[paper](https://arxiv.org/abs/1801.01671)] [[Notes]()]
+FOTS: Fast OrientedText Spotting with a Unified Network [[paper](https://arxiv.org/abs/1801.01671)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/Arxiv/FOTS%20Fast%20OrientedText%20Spotting%20with%20a%20Unified%20Network.md)]
 
 ## [IJCAI2018]()
 IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [[paper](https://arxiv.org/abs/1805.01167)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/IJCAI/IncepText%20A%20New%20Inception-Text%20Module%20with%20Deformable%20PSROI%20Pooling%20for%20Multi-Oriented%20Scene%20Text%20Detection.md)]
 
 ## [CVPR2018]()
-Rotation-Sensitive Regression for Oriented Scene Text Detection [[paper](https://arxiv.org/abs/1803.05265)] [[Notes]()]
+Rotation-Sensitive Regression for Oriented Scene Text Detection [[paper](https://arxiv.org/abs/1803.05265)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/CVPR/Rotation-Sensitive%20Regression%20for%20Oriented%20Scene%20Text%20Detection.md)]
 
-Single Shot Text Spotter with Explicit Alignment and Attention [[paper](https://arxiv.org/abs/1803.03474)] [[Notes]()]
+Single Shot Text Spotter with Explicit Alignment and Attention [[paper](https://arxiv.org/abs/1803.03474)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/CVPR/Single%20Shot%20Text%20Spotter%20with%20Explicit%20Alignment%20and%20Attention.md)]
 
-Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [[paper](https://arxiv.org/abs/1802.08948)] [[Notes]()]
+Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [[paper](https://arxiv.org/abs/1802.08948)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/CVPR/Multi-Oriented%20Scene%20Text%20Detection%20via%20Corner%20Localization%20and%20Region%20Segmentation.md)]
 
 
 ## [AAAI2018]()
-PixelLink: Detecting Scene Text via Instance Segmentation [[paper](https://arxiv.org/abs/1801.01315)] [[Notes]()] [[PublicCode](https://github.com/ZJULearning/pixel_link)]
+PixelLink: Detecting Scene Text via Instance Segmentation [[paper](https://arxiv.org/abs/1801.01315)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/AAAI/PixelLink%20Detecting%20Scene%20Text%20via%20Instance%20Segmentation.md)] [[PublicCode](https://github.com/ZJULearning/pixel_link)]
 
 ## [Arxiv2017]()
 Fused Text Segmentation Networks for Multi-oriented Scene Text Detection [[paper](https://arxiv.org/abs/1709.03272)] [[Notes]()]
