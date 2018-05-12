@@ -2,15 +2,36 @@
 # TextDetection
 
 ##### PaperList & Notes
+###### Writing notes...
+
+[ ] Arxiv2018
+
+[ ] IJCAI2018
+
+[ ] CVPR2018
+
+[ ] AAAI2018
+
+[ ] Arxiv2017
+
+[ ] CVPR2017
+
+[ ] ICCV2017
+
+[ ] AAAI2017
+
+
 
 ## [Arxiv2018]()
-An Anchor-Free Region Proposal Network for Faster R-CNN based Text Detection Approaches [[paper](https://arxiv.org/abs/1804.09003)] [[Notes]()]
+An Anchor-Free Region Proposal Network for Faster R-CNN based Text Detection Approaches [[paper](https://arxiv.org/abs/1804.09003)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/Arxiv/An%20Anchor-Free%20Region%20Proposal%20Network%20for%20Faster%20R-CNN%20based%20Text%20Detection%20Approaches.md)]
 
-TextBoxes++: A Single-Shot Oriented Scene Text Detector [[paper](https://arxiv.org/abs/1801.02765)] [[Notes]()] [[PublicCode](https://github.com/MhLiao/TextBoxes_plusplus)]
+
+TextBoxes++: A Single-Shot Oriented Scene Text Detector [[paper](https://arxiv.org/abs/1801.02765)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/Arxiv/TextBoxes%2B%2B%20A%20Single-Shot%20Oriented%20Scene%20Text%20Detector.md)] [[PublicCode](https://github.com/MhLiao/TextBoxes_plusplus)]
 
 FOTS: Fast OrientedText Spotting with a Unified Network [[paper](https://arxiv.org/abs/1801.01671)] [[Notes]()]
+
 ## [IJCAI2018]()
-IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [[paper](https://arxiv.org/abs/1805.01167)] [[Notes]()]
+IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [[paper](https://arxiv.org/abs/1805.01167)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/IJCAI/IncepText%20A%20New%20Inception-Text%20Module%20with%20Deformable%20PSROI%20Pooling%20for%20Multi-Oriented%20Scene%20Text%20Detection.md)]
 
 ## [CVPR2018]()
 Rotation-Sensitive Regression for Oriented Scene Text Detection [[paper](https://arxiv.org/abs/1803.05265)] [[Notes]()]
