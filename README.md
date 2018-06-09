@@ -73,4 +73,4 @@ Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [[pape
 
 
 ## [AAAI2017]()
-TextBoxes: A Fast Text Detector with a Single Deep Neural Network [[paper](https://arxiv.org/abs/1611.06779)] [[Notes]()] [[PublicCode](https://github.com/MhLiao/TextBoxes)]
+TextBoxes: A Fast Text Detector with a Single Deep Neural Network [[paper](https://arxiv.org/abs/1611.06779)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/AAAI/TextBoxes%20A%20Fast%20Text%20Detector%20with%20a%20Single%20Deep%20Neural%20Network.jpg)] [[PublicCode](https://github.com/MhLiao/TextBoxes)]
