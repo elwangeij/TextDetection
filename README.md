@@ -70,8 +70,7 @@ EAST: An Efficient and Accurate Scene Text Detector [[paper](https://arxiv.org/a
 
 Detecting oriented text in natural images by linking segments [[paper](https://arxiv.org/abs/1703.06520)] [[Notes]()] [[PublicCode](https://github.com/bgshih/seglink)]
 
-Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [[paper](https://arxiv.org/abs/1703.01425)] [[Notes]()]
-
+Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [[paper](https://arxiv.org/abs/1703.01425)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/CVPR/Deep%20Matching%20Prior%20Network-Toward%20Tighter%20Multi-oriented%20Text%20Detection.jpg)]
 
 
 ## [AAAI2017]()
