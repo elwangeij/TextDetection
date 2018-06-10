@@ -18,11 +18,13 @@
 
 - [] ICCV2017
 
-- [] AAAI2017
+- [OK] AAAI2017
 
 
 
 ## [Arxiv2018]()
+Shape Robust Text Detection with Progressive Scale Expansion Network [[paper](https://arxiv.org/abs/1806.02559)][[Notes]()]
+
 An Anchor-Free Region Proposal Network for Faster R-CNN based Text Detection Approaches [[paper](https://arxiv.org/abs/1804.09003)] [[Notes](https://github.com/elwangeij/TextDetection/blob/master/Arxiv/An%20Anchor-Free%20Region%20Proposal%20Network%20for%20Faster%20R-CNN%20based%20Text%20Detection%20Approaches.md)]
 
 
